@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Kesu8888/Kesu8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi, welcome to my homepage
 
 - 🔭 I’m currently working on a project which analyze stock marketing using AI with consider to global_event, product_type, stock indexes and other variables
